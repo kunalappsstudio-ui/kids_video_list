@@ -1,0 +1,30 @@
+[
+  {
+    "videoId": "hq3yfQnllfQ",
+    "title": "Phonics Song",
+    "description": "Learn the ABCs with fun phonics!",
+    "emoji": "🔤",
+    "category": "Alphabet"
+  },
+  {
+    "videoId": "D0Ajq682yrA",
+    "title": "Numbers Song",
+    "description": "Let us count from 1 to 10 together!",
+    "emoji": "🔢",
+    "category": "Numbers"
+  },
+  {
+    "videoId": "tkpfg-1FJLU",
+    "title": "Shapes Song",
+    "description": "Discover different shapes around us.",
+    "emoji": "⭐",
+    "category": "Shapes"
+  },
+  {
+    "videoId": "zXEq-QO3xTg",
+    "title": "Colors Song",
+    "description": "Red, yellow, green, and blue!",
+    "emoji": "🎨",
+    "category": "Colors"
+  }
+]
